@@ -1,0 +1,38 @@
+
+#div1 {
+    background-color: grey;
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+}
+#div2 {
+    background-color: red;
+    width: 250px;
+    height: 150px;      
+    display: inline-block; 
+}
+#div3 {
+    background-color: grey;
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+    
+}
+#div4 {
+    background-color: greenyellow;
+    width: 400px;
+    height: 300px;
+}
+#div5 {
+    background-color: rgb(95, 95, 145);
+    width: 200px;
+    height: 200px;
+    float: inline-end;
+       
+    
+}
+#div6 {
+    background-color: rgb(102, 82, 52);
+    width: 4000px;
+    height: 100px;    
+}
